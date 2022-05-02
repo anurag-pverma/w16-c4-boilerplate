@@ -1,11 +1,11 @@
-import React from "react";
+import React from 'react'
 
 const About = () => {
   return (
     <div>
-      <h1>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam, esse Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, accusamus? Minima mollitia dolores doloribus provident alias culpa modi voluptate ut et numquam incidunt illum illo perferendis, rerum quidem obcaecati atque corporis blanditiis aut repudiandae. Molestias ab hic tempore odit, nostrum dignissimos, commodi accusantium inventore et distinctio ipsa fugiat aliquam veritatis vel aut! Maxime veritatis enim cupiditate, voluptatum sed quis voluptas ut unde similique cumque magni beatae corporis tempore architecto, sint, aliquid tempora ullam vel. Sit ipsa unde sunt commodi ratione similique, beatae dolorum tenetur ad aperiam eaque earum est! Neque impedit ad a consequuntur hic, esse accusantium voluptate officia quas.</h1>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam dolorum id blanditiis ipsa accusantium laboriosam autem doloremque ab impedit natus reiciendis quam ex, dolor ad explicabo velit facilis quos! Voluptatibus voluptatum suscipit obcaecati pariatur reiciendis, odio, inventore voluptate debitis atque saepe laboriosam, voluptates odit quasi asperiores! Optio reiciendis maxime sint sunt iste natus sit commodi! Quidem iure cum nulla debitis aut iste consequuntur quos obcaecati, voluptatum nemo assumenda cumque laudantium ut temporibus hic et deleniti, porro possimus, esse quae reprehenderit quis libero! Iste delectus, beatae harum temporibus iure voluptatem illum omnis quibusdam magnam ullam, eum dolorem cupiditate voluptate tenetur hic.
     </div>
-  );
-};
+  )
+}
 
-export default About;
+export default About
